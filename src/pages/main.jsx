@@ -1,13 +1,14 @@
-import React from "react";
+import Sliders from "../components/Sidebar";
 import { Outlet } from "react-router-dom";
 
-function HomePage() {
+function Home() {
   return (
     <div>
       {/* <Navbar /> */}
+      <Sliders />
       <Outlet />
     </div>
   );
 }
 
-export default HomePage;
+export default Home;
