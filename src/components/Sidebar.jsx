@@ -9,7 +9,7 @@ import {
   User,
   ChevronDown,
 } from "lucide-react";
-import { NavLink } from "react-router-dom"; // ✅ use NavLink for active styles
+import { NavLink } from "react-router-dom";
 
 const Sidebar = () => {
   const menuItems = [
