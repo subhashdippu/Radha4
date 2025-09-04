@@ -1,12 +1,57 @@
-# React + Vite
+# [Capitalmind-Premium-Dashboard]([https://travel-saathi.netlify.app/](https://food-app-client-three.vercel.app))
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Introduction
 
-Currently, two official plugins are available:
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application is a React-based dashboard layout featuring a persistent sidebar navigation and dynamic page rendering on the right side.
 
-## Expanding the ESLint configuration
+## 👨‍💻 Tech Stack Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+ - ReactJS, TailwindCSS, JavaScript, lucide-react
+
+## 🚀 Features
+
+- Sidebar navigation with icons 
+- Active link highlighting 
+- Nested routing 
+- Layout with `Sidebar` on the left and routed content on the right
+
+## 🛠️ Installation Steps
+
+Star and Fork the Repo 🌟 and this will keep us motivated.
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/subhashdippu/Capitalmind-Premium-Dashboard.git
+```
+
+2. Change the working directory
+
+```bash
+cd Capitalmind-Premium-Dashboard
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the app
+
+```bash
+npm run start
+```
+
+## 📸 Screenshots
+
+<img src='./FastFeast/Readme/Home.png'/>
+<img src='./FastFeast/Readme/Screenshot_1.png'/>
+<img src='./FastFeast/Readme/Screenshot_2.png'/>
+<img src='./FastFeast/Readme/SignIn.png'/>
+<img src='./FastFeast/Readme/Cart.png'/>
+<img src='./FastFeast/Readme/Admin Page.png'/>
+
